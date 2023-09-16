@@ -1,5 +1,5 @@
 import XCTest
-@testable import doomsdk
+@testable import DoomSDK
 
 final class doomsdkTests: XCTestCase {
     func testExample() throws {
